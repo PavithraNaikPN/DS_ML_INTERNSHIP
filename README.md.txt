@@ -265,6 +265,12 @@ Finalized a well-scoped project idea
 - Handling collaboration challenges such as branching and merge conflicts  
 - Translating technical insights into clear, professional communication
 
+----
+
+# Day27-Multivariate Linear Regression – Salary Prediction
+
+This project focuses on building a multivariate (multiple) linear regression model using the hiring.csv dataset to predict candidate salaries based on three key factors: years of experience, written test score, and interview score. The objective was to develop a machine learning solution that can assist the HR department in making data-driven salary decisions for future candidates. The dataset was loaded and analyzed to understand how each feature contributes to salary prediction, followed by basic preprocessing to ensure data quality. A multiple linear regression model was then trained using all three input variables together, and predictions were generated for new candidates to simulate real-world HR decision-making. Through this project, I gained a deeper understanding of how multiple independent variables collectively influence a dependent variable and learned how regression models can be applied in practical business scenarios. This task improved my skills in data analysis, model building, and interpreting prediction results using Python, Pandas, NumPy, and Scikit-learn.
+
 ## 👩‍💻 Author
 Pavithra
 
